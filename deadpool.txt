@@ -1,0 +1,5 @@
+#program to addition
+a=int(input("enter the numbers"))
+b=int(input("enter the numbers"))
+c=a+b
+print("addition of two numbers=",c)
