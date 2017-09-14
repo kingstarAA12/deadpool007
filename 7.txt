@@ -1,0 +1,16 @@
+#aera of circle
+r=30
+area=3.14*r*r
+print("area of circle=",area)
+
+#program to find modules
+a=50
+b=70
+c=a%b
+print ("modulus of two numbers=" ,c)
+
+#program to multiplication
+a=40
+b=80
+c=a*b
+print ("multiplication of two numbers=",c)
